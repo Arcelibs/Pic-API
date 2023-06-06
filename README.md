@@ -6,7 +6,7 @@
 - 要添加更多的API，只需複製img.php文件並重新命名（API將自動創建相應的圖片庫和統計文件）。
 - 調用API獲取圖片時，直接修改API對應的圖片庫中的圖片鏈接即可。
 ## 预览
-預覽網站：[https://api.cxr.cool](https://imgapiphp.arcelibs.repl.co/)
+預覽網站：[https://imgapiphp.arcelibs.repl.co](https://imgapiphp.arcelibs.repl.co/)
 
 
 ## 文件说明
