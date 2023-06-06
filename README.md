@@ -1,13 +1,13 @@
 # Pic-API
-简单的PHP随机图片API
+簡單的PHP隨機圖片API
 ## 使用
-- 下载源码放入网站根目录，访问[域名]即可
-- API地址为`[域名]/img.php`
-- 添加更多API，复制`img.php`更改文件名即可（API会自动创建同名图片库及统计文件）
-- API调用图片直接修改API同名图片库里的图片链接即可
+- 下載原始碼並將其放置在您的網站根目錄中。通過[域名]訪問即可。
+- API的地址為 [域名]/img.php。
+- 要添加更多的API，只需複製img.php文件並重新命名（API將自動創建相應的圖片庫和統計文件）。
+- 調用API獲取圖片時，直接修改API對應的圖片庫中的圖片鏈接即可。
 ## 预览
-预览网站：https://api.cxr.cool
-![image](https://api.screenshotmachine.com?key=f7af6a&url=api.cxr.cool&dimension=1024x768)
+預覽網站：[https://api.cxr.cool](https://imgapiphp.arcelibs.repl.co/)
+
 
 ## 文件说明
 |文件名|描述|额外|
